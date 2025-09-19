@@ -20,7 +20,7 @@
 - `python-chess`: لإدارة منطق لعبة الشطرنج.
 ### تغيير قناة الاشتراك | Changing the Subscription Channel
 لتغيير القناة المطلوبة للاشتراك (الافتراضية: `@SYR_SB`):
-1. افتح ملف `stt.py`.
+1. افتح ملف `chess.py`.
 2. ابحث عن `@SYR_SB` في دالة `check_subscription` واستبدلها برابط قناتك (مثل `@MyChannel`).
 3. ابحث عن `https://t.me/SYR_SB` في دالة `start_chess` واستبدلها برابط قناتك (مثل `https://t.me/MyChannel`).
 4. احفظ الملف وأعد تشغيل البوت.
