@@ -24,7 +24,7 @@
 2. ابحث عن `@SYR_SB` في دالة `check_subscription` واستبدلها برابط قناتك (مثل `@MyChannel`).
 3. ابحث عن `https://t.me/SYR_SB` في دالة `start_chess` واستبدلها برابط قناتك (مثل `https://t.me/MyChannel`).
 4. احفظ الملف وأعد تشغيل البوت.
-5 ضع توكن بوتك في السطر  14
+5.استبدل ايضا YOUR_TOKEN بتوكن بوتك
 
 ### تثبيت المكتبات | Install Libraries
 ```bash
